@@ -3,6 +3,11 @@
 ## Introduction
 The **Multiple Disease Prediction System** is a machine learning-based web application developed using **Streamlit**. This project allows users to predict the likelihood of having Diabetes, Heart Disease, or Parkinson's Disease based on input medical parameters. The system is built using **Support Vector Machine (SVM) and Logistic Regression models**.
 
+## Demo Screenshot
+
+![Multiple Disease Prediction System](screenshots/app_demo.png)
+
+
 ## Models Used
 1. **Diabetes Prediction** - Support Vector Machine (SVM)
 2. **Heart Disease Prediction** - Logistic Regression
