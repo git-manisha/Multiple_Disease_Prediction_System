@@ -5,7 +5,7 @@ The **Multiple Disease Prediction System** is a machine learning-based web appli
 
 ## Demo Screenshot
 
-![Multiple Disease Prediction System](screenshots/app_demo.png)
+![Multiple Disease Prediction System](screenshot/app_demo.png)
 
 
 ## Models Used
